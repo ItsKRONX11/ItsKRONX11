@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Currently part of the Support team @ LearnSpigot<br>💸 I'm currently working on commissions<br><br>📝 You can see some of my projects, here, on my GitHub</p>
+<p align="left">✨ Part of the Support team @ LearnSpigot<br>👾 Part of the Freelancer team @ DevRoom<br>💸 Primarily working on commissions<br><br>📝 You can see some of my projects, here, on my GitHub</p>
 
 ###
 
