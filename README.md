@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Laur and I'm a Minecraft Developer and freelancer, from Romania</p>
+<p align="left">My name is Laur and I'm a Minecraft plugin & mod feveloper and freelancer</p>
 
 ###
 
